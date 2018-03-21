@@ -1,3 +1,6 @@
 [submodule "spotify-downloader"]
 	path = spotify-downloader
 	url = https://github.com/ritiek/spotify-downloader.git
+[submodule "Bare-Arduino-Project"]
+	path = Bare-Arduino-Project
+	url = https://github.com/ladislas/Bare-Arduino-Project.git
